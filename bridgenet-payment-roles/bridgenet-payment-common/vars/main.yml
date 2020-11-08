@@ -1,0 +1,5 @@
+---
+project_name: bridgenet_payment
+django_app_git_url: git@github.com:pronym-inc/bridgenet-payment.git
+django_app_extra_apt_dependencies:
+  - libcurl4-nss-dev
