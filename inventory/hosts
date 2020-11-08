@@ -1,9 +1,8 @@
 [production]
-myproductionserver.com
+3.16.166.169
 
 [dev]
 mydevserver.com
 
-[all_in_one]
-myproductionserver.com
-mydevserver.com
+[web]
+3.16.166.169
